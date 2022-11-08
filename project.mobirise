@@ -55,10 +55,7 @@
     "uniqCompNum": 29,
     "versionPublish": "5.6.11",
     "screenshot": "screenshot.png",
-    "google-analytics": "<!-- Remove Mobirise Footer -->\n<script>\n    window.addEventListener('DOMContentLoaded', function () {\n    const sections = document.querySelectorAll('section')\n    sections[sections.length-1].remove()\n})\n</script>",
-    "publishType": "local",
-    "mbrsite": "mbrsite://%7B%22id%22%3A261818%2C%22domain%22%3A%22jtwyqerreq.mobirisesite.com%22%7D",
-    "publishPath": "@PROJECT_PATH@"
+    "google-analytics": "<!-- Remove Mobirise Footer -->\n<script>\n    window.addEventListener('DOMContentLoaded', function () {\n    const sections = document.querySelectorAll('section')\n    sections[sections.length-1].remove()\n})\n</script>"
   },
   "pages": {
     "index.html": {
